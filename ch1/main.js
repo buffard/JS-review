@@ -8,5 +8,7 @@ let allHeaders =  document.querySelectorAll(".article__header")
 for (let i = 0; i < allHeaders.length; i++){
   allHeaders[i].classList.add('important')
 }
+// Obtain a reference the element with a class of dashed and remove it.
+
 
 
